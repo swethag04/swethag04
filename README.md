@@ -2,11 +2,11 @@
 <h3 align="left">I am an experienced Data Scientist with a passion for using AI and ML to solve real-world problems. </h3>
 <br>
 
-- 👨‍💻 I have worked as a Data Scientist at Instacart, Tesla and VMware
+- 👨‍💻 I  worked as a Data Scientist at Instacart, Tesla and VMware
 
 - 🔭 I am currently consulting for early stage startups to build proof of concept apps leveraging AI and ML
 
-- 🚀 I am very interested in **building projects using LLMs, RAG and agents**
+- 🚀 I am  interested in **building projects using LLMs, RAG and agents**
 
 - 🌱 I am currently learning to build front end applications using **Gradio, Streamlit and Flask**
 
