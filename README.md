@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Swetha</h1>
-<h3 align="left">I am an experienced Data Scientist with a passion for using AI and ML to solve real-world problems. </h3>
+<h3 align="left">I am an experienced Data Scientist/Engineer with a passion for using AI and ML to solve real-world problems. </h3>
 <br>
 
 - 👨‍💻 I  worked as a Data Scientist at Instacart, Tesla and VMware
